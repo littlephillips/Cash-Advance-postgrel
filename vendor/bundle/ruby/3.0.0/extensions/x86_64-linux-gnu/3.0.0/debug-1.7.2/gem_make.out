@@ -1,0 +1,19 @@
+current directory: /home/little/AFTER-MORINGA/Rails/cash-advance-postgresql/vendor/bundle/ruby/3.0.0/gems/debug-1.7.2/ext/debug
+/usr/bin/ruby3.0 -I /usr/local/lib/site_ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/little/AFTER-MORINGA/Rails/cash-advance-postgresql/vendor/bundle/ruby/3.0.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230428-188809-w5e3ry sitelibdir\=./.gem.20230428-188809-w5e3ry clean
+
+current directory: /home/little/AFTER-MORINGA/Rails/cash-advance-postgresql/vendor/bundle/ruby/3.0.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230428-188809-w5e3ry sitelibdir\=./.gem.20230428-188809-w5e3ry
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/little/AFTER-MORINGA/Rails/cash-advance-postgresql/vendor/bundle/ruby/3.0.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230428-188809-w5e3ry sitelibdir\=./.gem.20230428-188809-w5e3ry install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230428-188809-w5e3ry/debug
+
+current directory: /home/little/AFTER-MORINGA/Rails/cash-advance-postgresql/vendor/bundle/ruby/3.0.0/gems/debug-1.7.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230428-188809-w5e3ry sitelibdir\=./.gem.20230428-188809-w5e3ry clean
